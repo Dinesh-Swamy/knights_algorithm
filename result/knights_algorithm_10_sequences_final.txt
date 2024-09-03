@@ -1,0 +1,2 @@
+Total number of sequences detected are: 1013398 
+
